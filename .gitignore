@@ -1,0 +1,4 @@
+ db.sqlite3
+ crudproject/__pycache__/*
+ stud/__pycache__/*
+ stud/migrations/__pycache__/*
